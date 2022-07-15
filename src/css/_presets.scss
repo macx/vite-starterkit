@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --spacing: 1.25rem;
+
+  --clr-bg: hsl(204, 15%, 94%);
+  --clr-text: hsl(0, 0%, 0%);
+
+  --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    'Segoe UI Symbol';
+  --font-weight: 400;
+}

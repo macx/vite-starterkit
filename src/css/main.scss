@@ -1,0 +1,27 @@
+@use 'presets';
+
+body {
+  font-family: var(--font-family);
+  font-weight: var(--font-weight);
+  font-size: 1rem;
+  background-color: var(--clr-bg);
+  color: var(--clr-text);
+  margin: 0;
+}
+
+#app {
+}
+
+/*
+┌──────────────────────────────────┐
+  HEADER
+└──────────────────────────────────┘
+*/
+
+.header {
+  border-bottom: 1px solid var(--clr-line);
+}
+
+h1 {
+  margin: 0 0;
+}
