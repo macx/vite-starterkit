@@ -4,12 +4,15 @@
 
 :root {
   --spacing: 1.25rem;
+  --spacing--small: 0.625rem;
 
   --clr-bg: hsl(204, 15%, 94%);
   --clr-text: hsl(0, 0%, 0%);
+  --clr-line: hsla(0, 0%, 0%, 0.2);
 
   --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
     Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
     'Segoe UI Symbol';
   --font-weight: 400;
+  --line-height: 1.3;
 }
